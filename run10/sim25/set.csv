@@ -1,0 +1,25 @@
+directory_in,d:/project/run10/datanu/
+directory_out,d:/project/run10/sim25-9/
+label,run10sim25-9
+station,Rotterdam
+ymax,437200.00
+xmax,90950.00
+ymin,435200.00
+xmin,88950.00
+cellsize, 1
+blocksize,25
+TT,27.80
+FF,3.00
+dd,90.00
+Q,234.00
+Qdif,148.00
+sunalt,48.00
+RH,34.00
+wind,True
+WE,True
+winddir,E
+daynight,night
+diurnal,0.007
+Tmin,24
+Tmax,34
+U,6

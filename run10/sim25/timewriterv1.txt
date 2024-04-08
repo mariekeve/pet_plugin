@@ -1,0 +1,25 @@
+Elapsed time wind (s)               :  62.733 :  63.19 % 
+--- flag1 wind read (s)             :   0.001 :   0.00 % 
+--- flag2 wind calculate (s)        :  60.797 :  61.24 % 
+--- flag3 wind write (s)            :   1.935 :   1.95 % 
+Elapsed time ndvi_tree_mask (s)     :  33.316 :  33.56 % 
+--- flag1 ndvi_tree_mask read (s)   :   0.001 :   0.00 % 
+--- flag2 ndvi_tree_mask calculate (s) :  29.877 :  30.10 % 
+--- flag3 ndvi_tree_mask write (s)  :   3.439 :   3.46 % 
+Elapsed time vegfra_wind (s)        :   0.922 :   0.93 % 
+--- flag1 vegfra_wind read (s)      :   0.098 :   0.10 % 
+--- flag2 vegfra_wind calculate (s) :   0.113 :   0.11 % 
+--- flag3 vegfra_wind write (s)     :   0.710 :   0.72 % 
+Elapsed time svf_wind (s)           :   0.694 :   0.70 % 
+--- flag1 svf_wind read (s)         :   0.088 :   0.09 % 
+--- flag2 svf_wind calculate (s)    :   0.273 :   0.28 % 
+--- flag3 svf_wind write (s)        :   0.333 :   0.34 % 
+Elapsed time urban_heat (s)         :   0.409 :   0.41 % 
+--- flag1 urban_heat read (s)       :   0.000 :   0.00 % 
+--- flag2 urban_heat calculate (s)  :   0.076 :   0.08 % 
+--- flag3 urban_heat write (s)      :   0.333 :   0.34 % 
+Elapsed time pets (s)               :   1.198 :   1.21 % 
+--- flag1 pets read (s)             :   0.529 :   0.53 % 
+--- flag2 pets calculate (s)        :   0.572 :   0.58 % 
+--- flag3 pets write (s)            :   0.097 :   0.10 % 
+Total time (s): 99.272643
